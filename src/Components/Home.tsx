@@ -36,7 +36,7 @@ function Home() {
             Download Resume 
           </a> 
           <a 
-            href="mailto:rishipatil0401@gmail.com." 
+            href="mailto:patilrishi316@gmail.com." 
             className="bg-purple-600 hover:bg-purple-700 transition-colors duration-300 text-white font-semibold py-3 px-6 rounded-md shadow-md" 
           > 
             Contact Me 
